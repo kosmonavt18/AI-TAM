@@ -54,6 +54,8 @@
 
 Пользователь вводит характеристики квартиры, после чего модель прогнозирует примерную стоимость недвижимости.
 
-<img src="telegram_bot/QR.jpg" width="180" alt="QR-код бота" align="right" style="margin-left: 20px;">
-
+<div align="center">
+  <img src="telegram_bot/QR.jpg" width="220" alt="QR-код бота">
+  <p><b>Сканируй QR-код камерой телефона, чтобы запустить бота прямо в Telegram!</b></p>
+</div>
 ---
